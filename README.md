@@ -1,10 +1,10 @@
-## Welcome to GitHub Pages
+## 安安
 
 You can use the [editor on GitHub](https://github.com/misgroup10/acupointer/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 資管
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -15,8 +15,8 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+- 看不懂
+- 怎ㄇ用
 
 1. Numbered
 2. List
