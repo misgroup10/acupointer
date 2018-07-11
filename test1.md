@@ -1,4 +1,6 @@
+<html lang="en">
 <title>PHP practice1</title>
+<head>
  </head>
  <body>
 -	<?php
@@ -21,4 +23,4 @@
 +	</p>
  	
  </body>
- </html
+ </html>
